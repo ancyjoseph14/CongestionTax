@@ -1,0 +1,11 @@
+server:port: 8080
+spring:logging:level:org.springframework.web: INFO
+
+toll-free:
+  vehicles:
+    - Motorcycles
+    - Busses
+    - Emergency
+    - Diplomat
+    - Military
+    - Foreign
